@@ -24,4 +24,9 @@ export const GlobalStyles = createGlobalStyle`
         color: inherit;
     }
 
+    body{
+        background-color:#ECF2F8;
+        font-family: "Barlow Semi Condensed", sans-serif;
+    }
+
 `;
