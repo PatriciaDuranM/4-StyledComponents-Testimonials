@@ -53,7 +53,7 @@ const StyledImg = styled.img`
 	height: 28px;
 	border-radius: 50%;
 
-	&:nth-child() {
+	&:nth-child(1) {
 		border: 2px solid #a775f1;
 	}
 	&:nth-child(4) {

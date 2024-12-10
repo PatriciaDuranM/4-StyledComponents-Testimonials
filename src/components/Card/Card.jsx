@@ -11,7 +11,7 @@ import {
 
 import { CARDS_INFO } from '../constants/cards_info';
 
-const Card = ($bGColor, $nameColor, $titleColor, $textColor) => {
+const Card = () => {
 	return CARDS_INFO.map(info => (
 		<StyledCard $bGColor={info.bgColor} key={info.id}>
 			<StyledProfileBox>
