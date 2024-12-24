@@ -60,7 +60,6 @@ const StyledImg = styled.img`
 		border: 2px solid #a775f1;
 	}
 `;
-
 const StyledNameBox = styled.div`
 	display: flex;
 	flex-direction: column;
@@ -73,7 +72,6 @@ const StyledName = styled.span`
 	font-size: 13px;
 	line-height: 13px;
 `;
-
 const StyledState = styled.span`
 	font-weight: ${FONT_WEIGHT.medium};
 	font-size: 11px;
